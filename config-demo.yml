@@ -1,0 +1,7 @@
+ #NB this configuration was moved from application-dev.yml to github
+
+build:
+  id: 1010101
+  version: 1000.2.3
+  name: "Dev-Git-Production-Build"
+  type: "Development Build"
